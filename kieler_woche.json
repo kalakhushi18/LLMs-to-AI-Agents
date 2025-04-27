@@ -1,0 +1,116 @@
+[
+    {
+      "event_name": "Segelcamp",
+      "date": "2025-6-20",
+      "time": "09:00 - 10:00",
+      "location": "Kiellinie",
+      "description": "Annual sailing camp in Kiel offering over 30 sailing courses for children (ages 6–16) and adults. Children learn on Optimists and Aira yachts, led by expert instructors. Adults can enjoy evening and weekend sailing experiences. Registration needed for many courses, but spontaneous participation is possible on open camp weekends."
+    },
+    {
+      "event_name": "Waterkant Festival",
+      "date": "2025-06-20",
+      "time": "10:00 - 20:00",
+      "location": "Kiellinie",
+      "description": "Innovation festival in Kiel gathering startups, business leaders, and experts. Over 90 sessions on AI, work future, oceans, energy, and democracy. Includes talks, workshops, and live music by the fjord. A place for networking, inspiration, and launching new ideas."
+    },
+    {
+      "event_name": "OCEAN PARTY",
+      "date": "2025-06-21",
+      "time": "19:30",
+      "location": " Bootshafen Kiel-Mitte",
+      "description": "Kiel Week kicks off with a high-energy Ocean Party featuring DJ MOISI, a spectacular light show, fire fountains, and heavy electronic beats at the SunExpress Ocean Funpark — perfect for dancing and summer vibes."
+    },
+    {
+      "event_name": "Aalregatta Sailing Event",
+      "date": "2025-06-21",
+      "time": "10:00",
+      "location": "Bootshafen",
+      "description": "Traditional sailing regatta hosted by Segelclub Eckernförde and Kieler Yacht-Club. Starts at 9 AM from Düsternbrook, with races in Kiel Fjord and Eckernförde Bay. The band United4 performs exclusively for participants on Saturday evening."
+    },
+    {
+        "event_name": "Summer Market at Friedrichsort Fortress",
+        "date": "2025-06-22",
+        "time": "18:00",
+        "location": "Christianspries",
+        "description": "Art and crafts market at the historic Friedrichsort fortress near Falckenstein Beach. Local artists sell works in glass, jewelry, ceramics, and more. Open 11 AM–5 PM. Accessible by bus or ferry. Free entry; parking available for a small fee. Event moves inside in case of bad weather."
+    },
+    {
+        "event_name": "STILLaLIVE Concert at Kiel Week",
+        "date": "2025-06-22",
+        "time": "10:00",
+        "location": "Sailing Arena Schilksee",
+        "description": "Popular live band STILLaLIVE from Lower Saxony and Hamburg performs energetic shows with hits from the 80s, 90s, 2000s, and today — 100% live, creating a lively atmosphere for singing, dancing, and celebrating at Kiel Week."
+    },
+    {
+        "event_name": "Open camp",
+        "date": "2025-06-23",
+        "time": "10:00",
+        "location": "Bootshafen",
+        "description": "During Kiel Week (June 21–29, 2025), visitors of almost all ages can spontaneously join short sailing tours at the Open Camp on the Kiellinie. Family activities like table tennis, table football, and beach volleyball are also available. No prior registration needed for sailing (depending on weather and availability)."
+    }
+    ,
+    {
+        "event_name": "International Cities Forum: Education as a Key to Participation",
+        "date": "2025-06-23",
+        "time": "18:00",
+        "location": "Lorentzendamm",
+        "description": "Delegations from Kiel’s partner cities meet to discuss education’s role in promoting inclusion and societal cohesion. Public panel discussion after registration. Focus on global practices and exchanging ideas for better educational systems."
+    }
+    ,
+    {
+        "event_name": "Camp Marine",
+        "date": "2025-06-24",
+        "time": "10:00",
+        "location": "Kiellinie",
+        "description": "Free outdoor movie screening for families and students."
+    }
+    ,
+    {
+        "event_name": "Galli Theater - Interactive Fairy Tale Performances",
+        "date": "2025-06-24",
+        "time": "18:00",
+        "location": "Bootshafen",
+        "description": "Every day, the Galli Theater hosts a new interactive fairy tale play where children join in, laugh, and act out parts of the story. Audience participation is essential, making kids a part of the adventure."
+    }
+    ,
+    {
+        "event_name": "Exhibition: Church Windows in Northern Germany",
+        "date": "2025-06-25",
+        "time": "10:00",
+        "location": "Kiellinie",
+        "description": "From June 15 to July 5, 2025, photographer Jan Petersen exhibits large-format photos of church windows from Hamburg and Schleswig-Holstein, showcasing styles from the 13th century to modern times. A journey through regional art and architecture."
+    }
+    ,
+    {
+        "event_name": " Children’s Tour: Secrets of Seafaring",
+        "date": "2025-06-25",
+        "time": "18:00",
+        "location": "Schifffahrtsmuseum",
+        "description": "A special museum tour for children (ages 5+) at the historic Fish Hall, exploring how sailors navigated the oceans and how items like the Seehund submarine ended up in museums. Ends with a visit to a cabinet of curiosities full of maritime mysteries."
+    }
+    ,
+    {
+        "event_name": "SchietwetterCup - Rugby Tournament",
+        "date": "2025-06-26",
+        "time": "10:00",
+        "location": "Professor-Peters-Platz",
+        "description": "Northern Germany’s largest 7s rugby tournament takes place in Kiel on the penultimate weekend of June. Teams from Germany, the Baltics, and across Europe compete, with participation from Navy teams and players from countries like Fiji and England. Spectators are welcome for an exciting sports experience."
+    }
+    ,
+    {
+        "event_name": "Music Theater",
+        "date": "2025-06-26",
+        "time": "18:00",
+        "location": "Düsternbrooker ",
+        "description": "A special music theater event for culture and dance"
+    }
+    ,
+    {
+        "event_name": "ZENO",
+        "date": "2025-06-27",
+        "time": "10:00",
+        "location": "Professor-Peters-Platz",
+        "description": "Zeno, a well-known figure in Kiel's club scene, hosts the DYNAMITE event series, delivering a vibrant mix of electronic beats, pop classics, and chart hits. His energetic sets get every crowd dancing and sweating.."
+    }
+  ]
+  
